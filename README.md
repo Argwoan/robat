@@ -59,7 +59,4 @@ source ~/.bashrc
 run rm 
 ```
 roslaunch robot_arm_pkg check_motors.launch
-
-
-
-![لقطة الشاشة 2023-07-24 091217](https://github.com/Argwoan/robat/assets/138804055/21be64a3-34d1-4d49-86c2-51ceb738d643)
+```
