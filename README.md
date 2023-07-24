@@ -60,3 +60,5 @@ run rm
 ```
 roslaunch robot_arm_pkg check_motors.launch
 ```
+![
+![لقطة الشاشة 2023-07-24 091217](https://github.com/Argwoan/robat/assets/138804055/a0309c7b-45d5-4874-933d-e8b9e6e108d5)]
